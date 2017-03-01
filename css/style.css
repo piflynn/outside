@@ -14,6 +14,11 @@ body {
   text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
 }
 
+footer {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
 .wrapper {
   background: #4cf;
   width: 100%;
@@ -91,4 +96,8 @@ body {
 
 #wu {
 
+}
+
+#signature {
+  color: #FFF;
 }

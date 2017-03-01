@@ -5,7 +5,7 @@ $(document).ready(function() {
 
   $.ajax({
         type: "GET",
-        url: 'http://api.wunderground.com/api/c50c16deb2f1c9af/conditions/q/VA/Norfolk.json'
+        url: 'https://api.wunderground.com/api/c50c16deb2f1c9af/conditions/q/VA/Norfolk.json'
       }).done(function(json) {
         
 
